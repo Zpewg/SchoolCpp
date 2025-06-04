@@ -1,0 +1,9 @@
+# ninja log v6
+39	1406	7556914486758438	CMakeFiles/untitled.dir/main.cpp.obj	340eac4adcac9b93
+2	313	7566613484364066	build.ninja	36c499ee815260e8
+1406	1728	7556914500435754	untitled.exe	ed8ebd13cb3696be
+15	1854	7556906322888711	CMakeFiles/untitled.dir/Student.cpp.obj	762dfec28ee91337
+29	2405	7556906323027001	CMakeFiles/untitled.dir/Principal.cpp.obj	ad7515191ed3c6ba
+22	1969	7556906322955031	CMakeFiles/untitled.dir/Teacher.cpp.obj	71267e6f21e8645d
+37	2111	7556906323111373	CMakeFiles/untitled.dir/FileManager.cpp.obj	9636c082370ca177
+46	2097	7556906323194593	CMakeFiles/untitled.dir/DataProcessing.cpp.obj	150c10f587d82ff6

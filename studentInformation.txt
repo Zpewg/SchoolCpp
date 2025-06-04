@@ -1,0 +1,3 @@
+Andrei Manea 1 29/05/2004 GRADUATED Math 7 8 9
+Radu Filip 2 25/01/2002 DROPPED_OUT Math 10 10 10 Computer_Science 7 8 9
+Maria Dragan 3 21/12/1999 GRADUATED Computer_Science 3 4 7 English 5 5 5
